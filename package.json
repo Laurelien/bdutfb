@@ -1,0 +1,24 @@
+{
+  "name": "bd-cli",
+  "version": "1.1.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "bd-cli": "./bin/index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.0",
+    "dotenv": "^17.4.2",
+    "ora": "^6.1.2",
+    "pdf-table-extractor": "^1.0.3",
+    "pdfdataextract": "^3.2.0"
+  }
+}
