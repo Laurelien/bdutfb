@@ -18,6 +18,7 @@ All this steps while serving clients led to slower service and pricing mistakes.
 
 ## Example
 
+[Invoice PDF example](/docs/invoice_example.pdf)
 ![Console output](/docs/console.gif)
 
 ## Stack
